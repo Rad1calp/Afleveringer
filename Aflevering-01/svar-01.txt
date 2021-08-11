@@ -1,0 +1,19 @@
+4) Angiv seks 'CMD prompt' kommandoer du synes er vigtige,
+   med en beskrivelse af hvad de gør.
+	mkdir / md	: laver et nyt directory, mkdir er en forkortelse af "make directory". md er en forkortelse af mkdir.
+	cls		: en forkortelse for "clear screen". Denne kommando ryder alt tekst i CMD prompt.
+	chdir / cd	: chdir er forkortelse af "change directory". Den bruges til at ændre det aktive "directory". cd er en yderligere forkortelse af chdir.
+	start		: start starter et program der matcher navn()/pathen brugt some argument til kommandoen.
+	del		: del kort for delete sletter det nævnte objekt.
+	help / /?	: help kan bruges til at få at vide hvad andre kommandoer gør, hvilke andre argumenter og specifikation kommandoer tager/har brug for.
+
+5) I noten 'Hukommelse og glemsel' kan du se en graf.
+   Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
+	i følge grafen glemmer man 75% af hvad man har lært efter 2 dage. Man husker altså 25% af den nye viden.
+
+6) I noten 'Derfor dumper computere til matematik' omtales en episode under Golf krigen.
+   Hvor mange amerikanske soldater mistede livet under angrebet ?
+	28 amerikanske soldater mistede livet.
+   Ingeniøren valgte tallet 0.1 som sekund-tik. 
+   Kan du angive et tal ingeniøren istedet skulle have valgt ? 
+	0.1 sekund svare til 1/10-tik. 10 er ikke glade for tal det ikke udledes af 2^n. derfor kunne tallet ikke repræsenteres ordenligt. Han skulle i stedet have brugt 1/(2^n) for eksempel 1/2, 1/4, 1/8, 1/16, 1/32 osv. dette vil være tal computeren bedre ville kunne vise.
