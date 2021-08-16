@@ -3,4 +3,4 @@
 //kommandoen resultere i false
 
 //- Kan du forklare resultatet ?
-//der sker en afrundings fejl når 3 decimaltal lægges sammen
+//siden processing er baseret på java sker der samme problem. Kig i svaret til opgave 3 for uddybning
