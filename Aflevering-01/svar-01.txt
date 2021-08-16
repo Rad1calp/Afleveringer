@@ -4,7 +4,7 @@
 	cls		: en forkortelse for "clear screen". Denne kommando ryder alt tekst i CMD prompt.
 	chdir / cd	: chdir er forkortelse af "change directory". Den bruges til at ændre det aktive "directory". cd er en yderligere forkortelse af chdir.
 	start		: start starter et program der matcher navn()/pathen brugt some argument til kommandoen.
-	del		: del kort for delete sletter det nævnte objekt.
+	del		: del kort for delete. Sletter det nævnte objekt.
 	help / /?	: help kan bruges til at få at vide hvad andre kommandoer gør, hvilke andre argumenter og specifikation kommandoer tager/har brug for.
 
 5) I noten 'Hukommelse og glemsel' kan du se en graf.
